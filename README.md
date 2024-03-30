@@ -1,2 +1,2 @@
 # wc
-A word-count application written in Go
+A word-count application written in Go.
